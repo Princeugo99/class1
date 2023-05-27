@@ -1,0 +1,47 @@
+section {
+    {font-family: 'Courgette', cursive;}
+    text-align: center;
+}
+
+.top-div{
+    line-height: 8px;
+}
+
+div img {
+    width: 40px;
+}
+
+.middle-div {
+    line-height: 20px;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+ol {
+    margin-top: 8px;
+    display: inline-block;
+}
+
+.bottom-div {
+    line-height: 6px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(31, 128, 240)
+}
+
+hr {
+    width: 390px;
+}
+
+button {
+    color: white;
+    background-color rgb(31, 128, 240);
+    border-radius: 50px;
+    border: none;
+    padding: 8px 12px;
+    margin-top: 60
+}
