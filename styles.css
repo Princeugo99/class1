@@ -38,9 +38,11 @@ hr {
 }
 
 button {
+    cursor: pointer;
     color: white;
     background-color: rgb(31, 128,240);
     border-radius: 50px;
     border: none;
     padding: 8px 12px;
     margin-top: 60
+    
